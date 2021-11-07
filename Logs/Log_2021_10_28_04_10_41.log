@@ -1,0 +1,11 @@
+2021-10-28 22:04:58,000  INFO [main] AtlanticBooks:57 - landing at home page
+2021-10-28 22:05:06,745  INFO [main] AtlanticBooks:62 - clicked on sign button
+2021-10-28 22:05:07,410  INFO [main] AtlanticBooks:89 - Poly123@gmail.com entered
+2021-10-28 22:05:07,629  INFO [main] AtlanticBooks:92 - Poly#4321 entered
+2021-10-28 22:05:11,718  INFO [main] AtlanticBooks:94 - clicked on summit button
+2021-10-28 22:05:12,316  INFO [main] AtlanticBooks:89 - Pulkit@gmail.com entered
+2021-10-28 22:05:12,492  INFO [main] AtlanticBooks:92 - PULs@123 entered
+2021-10-28 22:05:16,288  INFO [main] AtlanticBooks:94 - clicked on summit button
+2021-10-28 22:05:26,718  INFO [main] AtlanticBooks:133 - enterd product name
+2021-10-28 22:05:44,274  INFO [main] AtlanticBooks:160 - selected serach product
+2021-10-28 22:05:54,793  INFO [main] AtlanticBooks:187 - product added into card successfully
